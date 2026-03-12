@@ -37,5 +37,5 @@ id_aleatorio = random.randint(1, 15)
 
 nombre_afortunado = usuarios_faker[id_aleatorio]["Nombre"]
 
-#Resultado Final con el nombre afortunado 
+# Resultado Final con el nombre afortunado
 print(f"O usuario chamado {nombre_afortunado} foi o afortunado!")
