@@ -3,9 +3,9 @@
 # Users_Faker.py
 
 Programa que crea un diccionario vacío llamado usuarios_faker = {} donde posteriormente a través del Paquete Faker
-se rellena con datos y información de cada usuario usando bucles hasta 15 usuarios, con generación de id aleatorio a través de ramdom
+se rellena con datos y información de cada usuario usando bucles hasta 15 usuarios, con generación de id aleatorio a través del paquete ramdom
 
-# Paquetes usados con sus imports 
+# Librerías usadas con sus imports 
 
 from faker import Faker
 import random
