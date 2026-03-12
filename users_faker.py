@@ -8,7 +8,7 @@ fake = Faker("es_ES")
 # Creamos diccionario vació donde posteriormente agregaremos los nombres generados
 usuarios_faker = {}
 
-# Creeamos un bucle para rellenar el diccionario con los 15 usuarios
+# Creamos un bucle para rellenar el diccionario con los 15 usuarios
 for us in range(1, 16):
     usuarios_faker[us] = {
         "Nombre": fake.name(),
@@ -31,11 +31,11 @@ for id, info in usuarios_faker.items():
         "-" * 20
     )  # para separa la informacion de cada usuario repita al final un guion 20 veces
 
-# Generamos usuario aletoriomente
+# Generamos usuario aleatoriomente
 
 id_aleatorio = random.randint(1, 15)
 
 nombre_afortunado = usuarios_faker[id_aleatorio]["Nombre"]
 
-# Resultado Final con el nombre afortunado
+# Resultado final con el nombre afortunado
 print(f"O usuario chamado {nombre_afortunado} foi o afortunado!")
