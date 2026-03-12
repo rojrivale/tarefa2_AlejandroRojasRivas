@@ -3,7 +3,7 @@
 # Users_Faker.py
 
 Programa que crea un diccionario vacío llamado usuarios_faker = {} donde posteriormente a través del Paquete Faker
-se rellena con datos y información de cada usuario usando bucles hasta 15 usuarios, con generación de id aleatorio a través del paquete ramdom
+se rellena con datos y información de cada usuario usando bucles hasta 15 usuarios, con generación de id aleatorio a través del paquete ramdom.
 
 # Librerías usadas con sus imports 
 
@@ -27,4 +27,4 @@ El programa finaliza cogiendo un usuario con id nombre aleatoriamente y indicand
 
 # Ejemplo de resultado nombre afortunado:
 
-El usuario llamado Gisela Cuevas Amigó es el afortunado
+El usuario llamado Gisela Cuevas Amigó es el afortunado.
