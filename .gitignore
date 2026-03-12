@@ -5,3 +5,5 @@ venv/
 # en nuestro repositorio de GitHub
 
 *.zip 
+
+# Se añade la regla para excluir archivos .zip (opcional) para cuando creamos el archivo .zip con los archivos seleccionados
