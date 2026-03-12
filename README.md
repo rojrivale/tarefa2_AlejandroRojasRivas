@@ -15,7 +15,7 @@ import random
 
 Muestra en pantalla la información de cada usuario almacenada en el diccionario creado.
 
-Ejemplo de resultado generado: 
+# Ejemplo de resultado generado: 
 
 Id:15
 Nombre: Lucas Talavera
@@ -25,6 +25,6 @@ Teléfono: +34917 84 30 97
 
 El programa finaliza cogiendo un usuario con id nombre aleatoriamente y indicando que es el afortunado con la siguiente frase:
 
-Ejemplo de resultado nombre afortunado:
+# Ejemplo de resultado nombre afortunado:
 
 El usuario llamado Gisela Cuevas Amigó es el afortunado
