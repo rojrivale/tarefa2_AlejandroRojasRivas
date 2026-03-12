@@ -1,2 +1,5 @@
 .venv/
 venv/
+
+# No sería necesario pero para prevenir que se muestre lo indicamos en este archivo para que se ignore
+# en nuestro repositorio de GitHub
