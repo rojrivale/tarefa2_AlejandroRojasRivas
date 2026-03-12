@@ -29,7 +29,7 @@ for id, info in usuarios_faker.items():
     print(f"Teléfono: {info['Teléfono']}")
     print(
         "-" * 20
-    )  # para separa la informacion de cada usuario repita al final un guion 10 veces
+    )  # para separa la informacion de cada usuario repita al final un guion 20 veces
 
 # Generamos usuario aletoriomente
 
